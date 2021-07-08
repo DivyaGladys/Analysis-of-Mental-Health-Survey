@@ -1,4 +1,4 @@
-# Analysis-of-Mental-Health-Survey
+# Analysis of Mental Health Survey
 Data Visualization and Analysis of Mental Health in Tech Industries Survey (2014)
 
 ## Aim

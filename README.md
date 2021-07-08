@@ -8,8 +8,9 @@ The main objective of this project is to visualise the data collected through th
 The dataset used is originally put together from a survey which was conducted by Open Sourcing Mental Illness (OSMI) Organization in the year 2014. According to OSMI, this survey was “the largest survey done on mental health in the tech industry” in the year 2014. This dataset projects different opinions of people towards mental health and frequency of mental health disorders in the tech workplace.
 
 ## Contents
-* For further details about the dataset, for analytical questions, and the inferences for the plots look at 
-* Python notebook for code 
-* Tableau workbook for different visualization techniques
-* Output directory
+* For further details about the dataset, for analytical questions, and the inferences for the plots look at [Report](https://github.com/DivyaGladys/Analysis-of-Mental-Health-Survey/blob/main/Project%20Report.pdf)
+* Python [notebook]() for code
+* Tried visualization using Tableau [workbook](https://github.com/DivyaGladys/Analysis-of-Mental-Health-Survey/blob/main/Survey_plots.twbx)
+* [Dataset]() taken from [kaggle](https://www.kaggle.com/osmi/mental-health-in-tech-survey)
+* [Output]() directory containing image for reference
 
